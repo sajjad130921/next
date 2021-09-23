@@ -12,7 +12,14 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1>Welcome to Sajjad Page</h1>
+        <h1>Welcome to Sajjad Page </h1>
+        <p>
+          sajjad aalakaj ajnsjdn fouidf sdiguf pigyif ghfiguhfigsu gipwr9fj
+          gorueg regu jeugehg9eugh dfohb9e[ heh v9eu bhebh ebhe eubh uhboeu bheb
+          eubheoubhgoubheogubhgubho buh0hb0eg hbgohbo
+          ubhrgobhuoehbteobheuhbehtoethg0othgoth ohtgtijbipt jpitjpetijb ti jb
+          egji
+        </p>
       </main>
 
       <footer className={styles.footer}>
